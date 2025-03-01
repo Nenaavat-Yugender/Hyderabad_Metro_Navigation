@@ -1,0 +1,59 @@
+Format: StationName Latitude Longitude
+
+Miyapur,17.4974,78.3564
+JNTU College,17.4930,78.3915
+KPHB Colony,17.4845,78.4079
+Kukatpally,17.4785,78.4138
+Dr. B.R. Ambedkar Balanagar,17.4710,78.4220
+Moosapet,17.4635,78.4258
+Bharat Nagar,17.4580,78.4315
+Erragadda,17.4550,78.4380
+ESI Hospital,17.4495,78.4435
+S R Nagar,17.4430,78.4480
+Ameerpet,17.4375,78.4483
+Panjagutta,17.4267,78.4531
+Irrum Manzil,17.4226,78.4565
+Khairatabad,17.4105,78.4697
+Lakdi-ka-pul,17.4043,78.4737
+Assembly,17.4062,78.4745
+Nampally,17.3885,78.4678
+Gandhi Bhavan,17.3850,78.4740
+Osmania Medical College,17.3800,78.4800
+MG Bus Station,17.3750,78.4860
+Malakpet,17.3700,78.4900
+New Market,17.3650,78.4950
+Musarambagh,17.3600,78.5000
+Dilsukhnagar,17.3550,78.5050
+Chaitanyapuri,17.3500,78.5100
+Victoria Memorial,17.3450,78.5150
+L B Nagar,17.3400,78.5200
+Nagole,17.4135,78.5625
+Uppal,17.4058,78.5350
+Stadium,17.3980,78.5300
+NGRI,17.3920,78.5250
+Habsiguda,17.3850,78.5200
+Tarnaka,17.3780,78.5150
+Mettuguda,17.3700,78.5100
+Secunderabad East,17.3660,78.5010
+Parade Grounds,17.3610,78.5000
+Paradise,17.3550,78.4950
+Rasoolpura,17.3500,78.4900
+Prakash Nagar,17.3450,78.4850
+Begumpet,17.3400,78.4800
+Mathura Nagar,17.3350,78.4750
+Yusufguda,17.3300,78.4700
+Jubilee Hills Check Post,17.3250,78.4650
+Peddamma Temple,17.3200,78.4600
+Madhapur,17.3150,78.4550
+Durgam Cheruvu,17.3100,78.4500
+HITEC City,17.3050,78.4450
+Raidurg,17.3000,78.4400
+JBS Parade Ground,17.4500,78.5000
+Secunderabad West,17.4400,78.4900
+Gandhi Hospital,17.4300,78.4800
+Musheerabad,17.4200,78.4700
+RTC X Roads,17.4100,78.4600
+Chikkadpally,17.4000,78.4500
+Narayanaguda,17.3900,78.4400
+Sultan Bazaar,17.3800,78.4300
+

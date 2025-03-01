@@ -1,0 +1,61 @@
+Station1 Station2 Distance_in_km
+
+Miyapur,Ameerpet,12.0
+Ameerpet,Panjagutta,1.5
+Panjagutta,Irrum Manzil,1.2
+Irrum Manzil,Khairatabad,1.3
+Khairatabad,Lakdi-ka-pul,1.2
+Lakdi-ka-pul,Nampally,1.8
+
+
+Miyapur,JNTU College,1.3
+JNTU College,KPHB Colony,1.2
+KPHB Colony,Kukatpally,1.0
+Kukatpally,Dr. B.R. Ambedkar Balanagar,1.1
+Dr. B.R. Ambedkar Balanagar,Moosapet,1.0
+Moosapet,Bharat Nagar,1.0
+Bharat Nagar,Erragadda,1.1
+Erragadda,ESI Hospital,0.9
+ESI Hospital,S R Nagar,1.0
+S R Nagar,Ameerpet,1.3
+Ameerpet,Panjagutta,1.0
+Panjagutta,Irrum Manzil,0.9
+Irrum Manzil,Khairatabad,1.0
+Khairatabad,Lakdi-ka-pul,1.1
+Lakdi-ka-pul,Assembly,0.8
+Assembly,Nampally,0.9
+Nampally,Gandhi Bhavan,0.8
+Gandhi Bhavan,Osmania Medical College,1.0
+Osmania Medical College,MG Bus Station,1.0
+MG Bus Station,Malakpet,1.2
+Malakpet,New Market,1.0
+New Market,Musarambagh,1.0
+Musarambagh,Dilsukhnagar,1.0
+Dilsukhnagar,Chaitanyapuri,1.0
+Chaitanyapuri,Victoria Memorial,1.1
+Victoria Memorial,L B Nagar,1.2
+Nagole,Uppal,1.3
+Uppal,Stadium,1.2
+Stadium,NGRI,1.1
+NGRI,Habsiguda,1.0
+Habsiguda,Tarnaka,1.0
+Tarnaka,Mettuguda,1.1
+Mettuguda,Secunderabad East,1.0
+Secunderabad East,Parade Grounds,1.0
+Parade Grounds,Paradise,1.0
+Paradise,Rasoolpura,1.1
+Rasoolpura,Prakash Nagar,1.1
+Prakash Nagar,Begumpet,1.0
+Begumpet,Mathura Nagar,1.0
+Mathura Nagar,Yusufguda,1.1
+Yusufguda,Jubilee Hills Check Post,1.0
+Jubilee Hills Check Post,Peddamma Temple,1.0
+Peddamma Temple,Madhapur,1.1
+Madhapur,Durgam Cheruvu,1.0
+Durgam Cheruvu,HITEC City,1.0
+HITEC City,Raidurg,1.2
+::contentReference[oaicite:0]{index=0}
+ 
+
+
+
