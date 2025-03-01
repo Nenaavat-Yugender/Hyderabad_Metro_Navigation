@@ -1,31 +1,10 @@
-🎯 Features
-✅ Uses real Hyderabad Metro stations.
-✅ Uses real distances in kilometers.
-✅ Implements Dijkstra’s algorithm for shortest path.
-✅ Modularized with separate header and source files.
-✅ Uses Makefile for easy compilation.
-
-✨ Features
-✔ Shortest Path & Distance
-✔ Real Hyderabad Metro Data
-✔ Dijkstra's Algorithm
-✔ Modular Code & Makefile
-
-
-complie without make 
-  g++ -std=c++17 -Wall -Wextra -Iinclude src/stations.cpp src/connections.cpp src/main.cpp -o metro
-run command
-  ./metro.exe
-
-
-
 # Hyderabad Metro Shortest Path Finder
 
 This project implements the **Hyderabad Metro Shortest Path Finder** using **Dijkstra’s algorithm** to calculate the shortest distance between metro stations. It is written in **C++** and follows a modular approach for better maintainability.
 
 ---
 
-![Hyderabad Metro Map](image.png)
+![Hyderabad Metro Map](Hyderabad_metro_map.pdf)
 
 ---
 
